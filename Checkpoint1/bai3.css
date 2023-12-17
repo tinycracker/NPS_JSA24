@@ -1,0 +1,37 @@
+*{
+    margin: auto;
+}
+.container{
+background-color: rgb(84, 180, 232);
+
+}
+h1{
+    color: white;
+    font-family: monospace;
+    text-align: center;
+padding: 50px;
+font-size: xxx-large
+}
+
+.register{
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(11, 55, 55);
+    margin: 130px;
+    height: 300px;
+    border-radius: 10px;
+}
+
+.in4{
+height: 30px;
+width: 300px;
+}
+
+
+
+
+
+
+
+
+

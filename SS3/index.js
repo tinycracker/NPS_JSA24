@@ -1,4 +1,4 @@
-// // cú pháp lưu trữ với local storage
+// cú pháp lưu trữ với local storage
 
 // let a= "Hello World!!";
 // localStorage.setItem("a",a);
@@ -35,22 +35,19 @@
 //     JSON.parse(localStorage.getItem("arr"))
 // );
 
-let danhBa = [{
-    name: "Hieu",
-    phone: "123456",
-    email: "hieu@gmail.com"
-},
-{
-    name: "Nguyễn Văn A",
-    phone: "2345678",
-    email: "a@gmail.com"
-},
-{
-    name: "Nguyễn Văn B",
-    phone: "3456789",
-    email: "b@gmail.com"
-},
-
-
-
-]
+// let danhBa = [{
+//     name: "Hieu",
+//     phone: "123456",
+//     email: "hieu@gmail.com"
+// },
+// {
+//     name: "Nguyễn Văn A",
+//     phone: "2345678",
+//     email: "a@gmail.com"
+// },
+// {
+//     name: "Nguyễn Văn B",
+//     phone: "3456789",
+//     email: "b@gmail.com"
+// },
+// ]

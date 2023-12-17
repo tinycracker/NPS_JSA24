@@ -19,12 +19,12 @@
 //  while (i <= 10);
 
 
-// ////vd với vòng lặp for
+// ////vd với vòng lặ'p for
 
-// for(let i= 1; 1<=10;i++){
-//     console.log(i);
+for(let i= 1; 1<=10;i++){
+    console.log(i);
     
-// }
+}
 
 // ////khai báo mảng
 // //c1
@@ -78,7 +78,7 @@
 // let obj = {
 //     name: "a",
 //     age: 26,
-//     job:"web developer",
+//                 job:"web developer"}
 //     dev(){
 //         return"HTML CSS JS"
 
